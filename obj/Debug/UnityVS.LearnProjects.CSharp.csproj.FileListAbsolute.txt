@@ -1,0 +1,16 @@
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\ZKBK\LearnProjects\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\ZKBK\LearnProjects\obj\Debug\Assembly-CSharp.dll
+D:\ZKBK\LearnProjects\obj\Debug\Assembly-CSharp.pdb
