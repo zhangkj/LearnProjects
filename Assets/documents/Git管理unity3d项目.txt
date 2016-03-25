@@ -1,0 +1,12 @@
+Git管理unity3d项目
+　如果小组中没有足够的专业版license，用不了unity3d自带的version control，可以使用git来对项目进行版本控制；只不过需要建一个.gitignore文件在git项目管理的根目录下，git的使用方法不用介绍了，.gitignore文件是用来忽略提交的文件，内容如下：
+
+Library/
+Temp/
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+　“Library/”表示忽略Library文件夹下的内容，所忽略的都是自动生成的东西，项目中所需要的只有Assets，ProjectSettings

@@ -59,4 +59,8 @@ public class Star_New : MonoBehaviour
         GetComponent<MeshFilter>().mesh = null;
         DestroyImmediate(mesh);
     }
+
+    void Start()
+    { 
+    }
 }
